@@ -4,4 +4,4 @@ It is a smiple interface just add the values as shown in motor plate.
 <b>Main calculated parameters</b>: Rotor Current, Rotor( Current , Resistance, Inductance,)Magnetizing (Current, Inductance), Stator and Rotor Time Constants.
 
 Kindly cite this app if you are going to use.
-Yazan Qiblawey (2019). IMClac (https://www.mathworks.com/matlabcentral/fileexchange/71856-imclac), MATLAB Central File Exchange. Retrieved June 19, 2019.
+Yazan Qiblawey (2019). IMClac (https://www.mathworks.com/matlabcentral/fileexchange/71856-imclac), MATLAB Central File Exchange. 
